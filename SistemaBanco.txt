@@ -1,0 +1,24 @@
+Perguntar dados
+Checking(
+nomes 
+sobrenome
+data de nacimento 
+cpf
+rg
+telefone
+)
+
+numero da conta = ramdom
+passar numero do banco
+criar uma senha:
+
+Confirmar numero da conta:
+Confirmar numero do banco:
+Confirmar nome:
+Confirmar senha:
+
+Condição( Deixar conta 0
+AddMoney
+
+
+SaqMoney + porcentagem
