@@ -9,7 +9,7 @@ namespace SistemaBanco {
             string nome = Console.ReadLine();
             Console.Write("Sobrenome: ");
             string snome = Console.ReadLine();
-           /* Console.Write("Data de Nascimento: ");
+            Console.Write("Data de Nascimento: ");
             int dn = int.Parse(Console.ReadLine());
             Console.Write("CPF: ");
             long cpf = long.Parse(Console.ReadLine());
@@ -19,7 +19,7 @@ namespace SistemaBanco {
             int tell = int.Parse(Console.ReadLine());
             Console.Write("Cell: ");
             int cell = int.Parse(Console.ReadLine());
-            Console.WriteLine(); */
+            Console.WriteLine(); 
 
             Conta cont;
 
